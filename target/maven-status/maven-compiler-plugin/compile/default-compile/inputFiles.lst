@@ -1,0 +1,6 @@
+C:\Users\bhenn\workspace\SMTP-com-Spring-Boot\src\main\java\com\poc\smtp\config\SmtpComSpringBootApplication.java
+C:\Users\bhenn\workspace\SMTP-com-Spring-Boot\src\main\java\com\poc\smtp\controller\EmailSenderController.java
+C:\Users\bhenn\workspace\SMTP-com-Spring-Boot\src\main\java\com\poc\smtp\dto\EmailSenderDTO.java
+C:\Users\bhenn\workspace\SMTP-com-Spring-Boot\src\main\java\com\poc\smtp\helper\TemplateHelper.java
+C:\Users\bhenn\workspace\SMTP-com-Spring-Boot\src\main\java\com\poc\smtp\service\EmailService.java
+C:\Users\bhenn\workspace\SMTP-com-Spring-Boot\src\main\java\com\poc\smtp\bean\JavaMailBean.java
